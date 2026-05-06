@@ -1,0 +1,14 @@
+# 🍹 Lemon Juice Recipe
+
+## Ingredients
+- Lemon
+- Water
+- Sugar
+- Ice cubes
+
+## Steps
+1. Cut the lemon
+2. Squeeze lemon juice into a glass
+3. Add water and sugar
+4. Mix well
+5. Add ice cubes and serve cold
